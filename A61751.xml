@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Strange and wonderful account of a most barbarous and bloody murther committed by five notorious villains on Tuesday the 11th of this instant May ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61751</idno>
+            <idno type="STC">Wing S5841A</idno>
+            <idno type="STC">ESTC R32732</idno>
+            <idno type="EEBO-CITATION">12752450</idno>
+            <idno type="OCLC">ocm 12752450</idno>
+            <idno type="VID">93319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Strange and wonderful account of a most barbarous and bloody murther committed by five notorious villains on Tuesday the 11th of this instant May ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93319:1"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:93319:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <head>A Strange and wonderful ACCOUNT Of a moſt Barbarous and Bloody MURTHER, Committed by five notorious Villains, on <hi>Tueſday</hi> the 11th of this inſtant <hi>May</hi> about ten at night, in a widdow-womans houſe at <hi>Grays</hi> in <hi>Eſſex,</hi> where entring, they Robb'd the houſe and Murthered all the family except the woman her ſelf, who eſcaped their Cruelty by getting out at the backdore, with the manner of their being purſued croſs the water, to the Halfway-Tree, near <hi>Earif.</hi>
+            </head>
+            <p>SO frequent are the bloody Murthers, Villanies, Attempts and Cruelties perpetrated, that few weeks expire without ſome barbarous exploit or diſmal Trajedy Fate hovers round this Earthly Ball, and on ſecurer Mortals lays his dread<g ref="char:EOLhyphen"/>ful hand, cruſhing them untimely deaths and moſt prodigious ſlaughters, Hells envious power ſtill thirſts for Blood, and prompts on deſperate Wretches to engage in all the direſt Cruelties his Mallice can be capable of, forming Horrors and deſtruction ſits upon his Brows, which he infuſes into deſperate Villans, there<g ref="char:EOLhyphen"/>by to make them ſierce; and much delight in Slaughter, ſo that when he has prompted them on to paſs the bounds of all huma<g ref="char:EOLhyphen"/>nity, nought but Death can glut their furious Rage, and when they have committed any vile Deſign, as Robberies or ſuch no<g ref="char:EOLhyphen"/>torious outrages, to ſtifle which, or keep it cloſe from being known abroad, Fear ſo begets a thought of making all ſecure, that many times one Villany is augmented with a greater Crime; endeavouring to lay that ſilent thereby, when moſt commonly their blind Revenge and barbarous Deeds miſtake their purpoſed End and only make Heavens dreadful Juſtice fall more dreadful on their Guilty Head, for blood of Innocents cries loud to that
+<pb n="2" facs="tcp:93319:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 33 -->great God who ſees what e're is done. But among all the barba<g ref="char:EOLhyphen"/>rities and inhumane Cruelties that have of late been Acted, this of which we now ſhall give the Reader an Account of, may be Characteriſed in Rubrick and bear the Crimſon ſtains unto poſte<g ref="char:EOLhyphen"/>rity, for ſure it is, no Villains hands theſe many Months have been dyed ſo deep in blood, the Relation of which take as fol<g ref="char:EOLhyphen"/>loweth, on <hi>Tueſday</hi> the 11th of this inſtant, five fellows in Sea<g ref="char:EOLhyphen"/>mens habit were obſerved to lie lurking about a Village called <hi>Grays</hi> near <hi>Rumpford</hi> in <hi>Eſſex,</hi> and curiouſly to eye as they paſſed and repaſſed the houſe to wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch this Trajeck Fate be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but there being many Ships lying in the River, near adjoyning to the place aforeſaid, they were thought Seamen indeed, that belonged to ſome of thoſe Veſſels; ſo that they were not much ſcrupled nor at all queſtioned; but as the Scripture well denotes, they having mark<g ref="char:EOLhyphen"/>ed out the houſe they intended in the day time, that when night came they might break through and ſteal, <hi>&amp;c.</hi> about ten of the Clock in the Evening aforeſaid, they beſet the houſe wherein they committed this Murther and Robbery it being a houſe diſtant from Neighbours and near adjoyning to the water ſide, about the hour aforementioned, they being aſſured that all the Fami<g ref="char:EOLhyphen"/>ly were within, began on the backſide of it, to force an entry with ſuch Iron impliments as they had brought for that pernici<g ref="char:EOLhyphen"/>ous Uſe, whereupon the Maid of the houſe hearing a noiſe ſtart<g ref="char:EOLhyphen"/>ed up to ſee what the matter was, not dreaming that her Life was ſo near to an end; but before ſhe could well look about her they had forced a wide paſſage through the Wall, and with Swords and other weapons three of them had entered; ſo that unlocking the dore for the reſt, they altogether ruſhed forwards and one of them ſeiſed the Maid, whileſt the others went to ſe<g ref="char:EOLhyphen"/>cure the reſt of the Family, which according to Report conſiſted of only the Miſtreſs of the houſe, her Daughter about ſixteen or ſeuenteen years of Age, and the Servant-Maid; ſo that after breaking open ſeveral Dores in the houſe, they at laſt came where the Daughter was in Bed, who at their Approach, being as it is ſuppoſed much ſurpriſed, ſhreamed out, which her Mother hear<g ref="char:EOLhyphen"/>ing, and underſtanding there were Thieves in the houſe got as it is reported, out at a back dore or window undiſcovered, and went to raiſe the Town, but they having made a privy ſearch and miſſing her, ſuppoſed ſhe had eſcaped their hands, being ſure ſhe was in the houſe when they firſt entred; ſo that fearing to ſtay
+<pb n="3" facs="tcp:93319:2"/>
+               <!-- PDF PAGE 33 -->long l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt they ſhould be ſurprized, they broke open the Trunks and Cheſts, and ſo getting what monies and Goods they could conveniently carry, yet not contented with the Plunder, but as thirſty of Blood as Wealth, Hell ſcrewed them up to greater Villanies and not willing to depart before they left a laſting ſtain of their Diabolick Cruelties they went as it is ſuppoſed where they had left the two females bound, and with impious hands bereaved them of their Lives by giving them ſeveral mor<g ref="char:EOLhyphen"/>tal wounds, whether they acted this Barbarity to ſecure themſelves from a diſcovery by Reaſon the Maids might know them or whe<g ref="char:EOLhyphen"/>ther their guilty Conſciences ſuggeſted any ſuch thing is not cer<g ref="char:EOLhyphen"/>tain, becauſe they left none alive that could reſolve the Cauſe, but ſure it is, they ſtayed not long in the houſe after the exploit, but taking a Boat, which as it is ſuppoſed, they had brought with them, they with all ſpeed croſſed the River of Thames, and land<g ref="char:EOLhyphen"/>ed near a place called the half-way Tree near <hi>Earif</hi> in <hi>Kent;</hi> but made not ſo much haſt but that they were purſued, yet the pur<g ref="char:EOLhyphen"/>ſuers nor being ſtrong enough to encounter with them, they durſt not venture to take them, leſt their' bloody hands ſhould have diſpatched them too, rather than to have been taken and com<g ref="char:EOLhyphen"/>mitted into the hands of juſtice to be puniſhed for their deſerved Crimes, whereupon they made their eſcape into the next Wood, but great ſearch has been ſince made for them through<g ref="char:EOLhyphen"/>out the Country, but as vet none of them can be heard of. 'Tis thought they made for <hi>London</hi> with all ſpeed, for they did not carry away any thing that was weighty or cumberſome thereby to hinder their Flight; when the Mother returned rejoycing that ſhe had by the Aſſiſtance of her Neighbours put the Villains to flight, not dreaming of the barbarous exploits of Murther they had done; but entring to her great Amazement and un<g ref="char:EOLhyphen"/>ſpeakable Grief found her Daughter and Maid-ſervant weltering in their Blood; expanded in Deaths cold Convulſions on the floore; at which falling in a ſwoon hardly to be recovered, but when recovered ſhe bathed in Tears; wiſhed ſhe had been there to have dyed with them, and ſo continued comfortleſs.</p>
+            <p>And well may the horrors of an afflicted Parent be conceived in ſuch an extream cauſe, for who can reflect upon maternal ſor<g ref="char:EOLhyphen"/>row and not be ſenſible of the prevailing Anguiſh that in the like caſe afflicts a wounded Soul, and not condole ſuch great diſtreſs to have a tender offspring murthered by the hands of bloody Vil<g ref="char:EOLhyphen"/>lains,
+<pb n="4" facs="tcp:93319:3"/>
+               <!-- PDF PAGE 34 -->and pay back Natures Debt without a ſummons of delibe<g ref="char:EOLhyphen"/>ration hurried unto Eternity, by ſuch untimely Fate; as like<g ref="char:EOLhyphen"/>wiſe a faithful Servants loſs might in ſome meaſure bear a part, but Murders though cloaked with darkneſs, and in ſecret laid, will not lie buried in Oblivion, for various ways does the Almighty find to make diſcovery, and bring to light the horror of ſuch deeds; nay the trembling Murthered grows pale with fear, and oft be<g ref="char:EOLhyphen"/>trays himſelf, when unaccus'd by Men. This Tragecal Scene Acted by the Cruelties of Villains, may be a warning to all to be well Guarded and prepared againſt ſuch dangerous attempts; for if ever wickedneſs abounded to the ſuparlative degree, it may be ſaid it is now compleated; that Monſters in humane ſhapes ſhould dare thus to contemn and violate the Laws of God and Man, to pull down Vengeance on their heads by cauſeleſly ſhed<g ref="char:EOLhyphen"/>ding innocent Blood, for certain it is, that Divine Juſtice will not ever ſleep, but early or late bring them to ſuffer the deſerved puniſhment for ſuch notorious Crimes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93319:3"/>
+            <!-- PDF PAGE 34 -->
+         </div>
+      </body>
+   </text>
+</TEI>
